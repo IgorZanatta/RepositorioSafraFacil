@@ -1,0 +1,9 @@
+[submodule "RepositorioSafraFacil"]
+	path = RepositorioSafraFacil
+	url = https://github.com/IgorZanatta/RepositorioSafraFacil
+[submodule "SafraFacilApi"]
+	path = SafraFacilApi
+	url = https://github.com/IgorZanatta/SafraFacilApi
+[submodule "safrafacil"]
+	path = safrafacil
+	url = https://github.com/IgorZanatta/safrafacil
